@@ -1,1 +1,1 @@
-Site sobre a Startup, usando HTML, no wordprees.
+Site sobre a Startup, usando HTML, no wordprees. E o layout no figma.
